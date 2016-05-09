@@ -1,5 +1,5 @@
 {
-  "name": "walmsles/event-dispatch",
+  "name": "michaelwalmsley/silverstripe-event-dispatch",
   "type": "library",
   "description": "De-coupled event subscribe/dispatch class",
   "version": "0.0.1",
