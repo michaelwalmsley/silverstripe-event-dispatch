@@ -2,6 +2,7 @@
   "name": "walmsles/event-dispatch",
   "type": "library",
   "description": "De-coupled event subscribe/dispatch class",
+  "version": "0.0.1",
   "keywords": [
     "date",
     "time",
